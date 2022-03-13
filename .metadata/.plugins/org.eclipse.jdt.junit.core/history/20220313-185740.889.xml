@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Runner" project="gmailProject" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="testRunner.Runner" time="0.024">
+    <testsuite name="Feature: gmail login page" time="0.024">
+      <testsuite name="Scenario: Verify login page" time="0.024">
+        <testcase name="Given User has to be on login page" classname="Scenario: Verify login page" time="0.0"/>
+        <testcase name="When user enters valid username" classname="Scenario: Verify login page" time="0.0"/>
+        <testcase name="And Valid password" classname="Scenario: Verify login page" time="0.0"/>
+        <testcase name="And Click on login button" classname="Scenario: Verify login page" time="0.0"/>
+        <testcase name="Then Successful login page should be displayed" classname="Scenario: Verify login page" time="0.0"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Runner" project="gmailProject" tests="5" started="5" failures="0" errors="2" ignored="4">
+  <testsuite name="testRunner.Runner" time="0.037">
+    <testsuite name="Feature: gmail login page" time="0.037">
+      <testsuite name="Scenario: Verify login page" time="0.002" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinition.Loginstepdefinition.user_has_to_be_on_login_page(Loginstepdefinition.java:12)&#13;
+	at ✽.Given User has to be on login page(C:/Users/Ramyadeepika/PracticeWorkSpace/gmailProject/src/main/java/features/login2.feature:4)&#13;
+&#13;
+</error>
+        <testcase name="Given User has to be on login page" classname="Scenario: Verify login page" time="0.002">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinition.Loginstepdefinition.user_has_to_be_on_login_page(Loginstepdefinition.java:12)&#13;
+	at ✽.Given User has to be on login page(C:/Users/Ramyadeepika/PracticeWorkSpace/gmailProject/src/main/java/features/login2.feature:4)&#13;
+&#13;
+</error>
+        </testcase>
+        <testcase name="When user enters valid &quot;&lt;username&gt;&quot;" classname="Scenario: Verify login page" time="0.0" ignored="true"/>
+        <testcase name="And Valid &quot;&lt;password&gt;&quot;" classname="Scenario: Verify login page" time="0.0" ignored="true"/>
+        <testcase name="And Click on login button" classname="Scenario: Verify login page" time="0.001" ignored="true"/>
+        <testcase name="Then Successful login page should be displayed" classname="Scenario: Verify login page" time="0.0" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
